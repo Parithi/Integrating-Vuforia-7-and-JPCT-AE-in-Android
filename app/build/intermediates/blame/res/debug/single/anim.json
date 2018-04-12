@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/anim/bottom_down.xml"
+    }
+]

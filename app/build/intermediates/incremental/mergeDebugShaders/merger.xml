@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/debug/shaders"/></dataSet></merger>

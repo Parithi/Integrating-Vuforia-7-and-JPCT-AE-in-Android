@@ -1,0 +1,4 @@
+#Thu Apr 12 18:01:41 IST 2018
+base.0=/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/earul/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.3/c45573bf68b55442990936f007e7d6823d259c1f/gdx-backend-android-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c45573bf68b55442990936f007e7d6823d259c1f">
+        <dex dex="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.3_10bdcfe0ca35deab394426e49f910c38358353d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/libs/jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6939dc58306229d8dbc5ef8582686c1ab772d84">
+        <dex dex="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/pre-dexed/debug/jpct_ae_a55ca7121485302c112c20b75f74c563c5207b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/earul/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.3/1a3775429980a6c8da0cdefb656ad1dabf91d629/gdx-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a3775429980a6c8da0cdefb656ad1dabf91d629">
+        <dex dex="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/pre-dexed/debug/gdx-1.9.3_8af0a670b2b0372cfe500840c8c468e18626b893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/build/java/vuforia/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="818b4d07f1ef5015bd41b57b78f1ecb77b8c446f">
+        <dex dex="/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/pre-dexed/debug/Vuforia_3bd459c55cd38fdd52ab35ef91dc1f33afafea59.jar" />
+    </item>
+
+</items>

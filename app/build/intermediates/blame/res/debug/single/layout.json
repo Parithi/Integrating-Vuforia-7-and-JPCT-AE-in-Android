@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/activities_list.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay_reticle.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_reticle.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/card.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/card.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_udt.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/about_screen.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay_with_scanline.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_with_scanline.xml"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/activities_list_text_view.xml"
+    }
+]

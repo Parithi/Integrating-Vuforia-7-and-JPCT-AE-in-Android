@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/dragon_3ds",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/dragon_3ds"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/glock_obj",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/glock_obj"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/bb8_mtl",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/bb8_mtl"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/tree_mtl",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/tree_mtl"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/tree_obj",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/tree_obj"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/bb8_obj",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/bb8_obj"
+    },
+    {
+        "merged": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/build/intermediates/res/merged/debug/raw/glock_mtl",
+        "source": "/Users/earul/SDKs/vuforia-sdk-android-6-2-6/samples/VuforiaSamples-7-0-47/app/src/main/res/raw/glock_mtl"
+    }
+]
